@@ -1,4 +1,4 @@
-nt sensorPin = A0;
+int sensorPin = A0;
 int led1 = 9;
 int led2 = 10;
 int led3 = 11;
